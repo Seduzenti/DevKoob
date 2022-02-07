@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Nexteed
+- 👋 Hi, I’m @AnaAvonts
 - 👀 Java developer
 - 🌱 Full-Stack
-- 💞️ @Priincesiinha
-- 📫 Nexteed#0001
+- 💞️ @LightAvonts
+- 📫 AnaAvonts
 
 <!---
 Nexteed/Nexteed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
