@@ -4,7 +4,7 @@
 
 - 🤖 Trabalho atualmente na https://orlux.xyz
 
-- 💼 Aceitando encomendas.
+- 💼 A procura de Projetos.
 
 ### ➟ CONHECIMENTOS:
 
