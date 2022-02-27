@@ -6,16 +6,6 @@
 
 - 💼 A procura de Projetos.
 
-
-### ➟ Contato
-
-<img align="left" alt="Gmail" target="_blank" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <string>theguii@orluxplugins.com</string> 
-  <br> 
-  <br>
-<img align="left" alt="Discord" target="_blank" src="https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-  <string>TheGuii#0001</string>
-
 ### ➟ CONHECIMENTOS:
 
 <p align="left">
@@ -29,10 +19,13 @@
 
   ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=blue)
 
-![profile] 
-![languages]
+### ➟ Contato
 
-[profile]: https://github-readme-stats.vercel.app/api?username=TheGuiii&show_icons=true&theme=omni&count_private=true&hide_border=true
-[languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=TheGuiii&theme=omni&layout=compact&hide_border=true
+<img align="left" alt="Gmail" target="_blank" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <string>theguii@orluxplugins.com</string> 
+  <br> 
+  <br>
+<img align="left" alt="Discord" target="_blank" src="https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+  <string>TheGuii#0001</string>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=TheGuiii&color=blue" alt="Gui profile views" /> </p>
