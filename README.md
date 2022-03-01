@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
-### Olá! Seja bem-vindo ao meu perfil. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px"> 
+### Hi! Welcome to my profile. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px"> 
 
-- 🤖 Trabalho atualmente na https://gastoreplugins.com
+- 🤖 I currently work at https://gastoreplugins.com
 
-- 💼 Aceitando encomendas.
+- 💼 accepting orders.
 
-### ➟ CONHECIMENTOS:
+### ➟ KNOWLEDGE:
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40" />
@@ -19,6 +19,8 @@
 ### ➟ IDE's
 
   ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=blue)
+  ![PHP Storm](https://img.shields.io/badge/PHP%20Storm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
+  ![Visual Studios Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)
 
 ![profile] 
 ![languages]
