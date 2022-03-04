@@ -2,7 +2,7 @@
 
 ### Hi! Welcome to my profile. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px"> 
 
-- 🤖 I currently work at https://gastoreplugins.com
+- 🤖 I currently work at https://none.com
 
 - 💼 accepting orders.
 
@@ -25,7 +25,7 @@
 ![profile] 
 ![languages]
 
-[profile]: https://github-readme-stats.vercel.app/api?username=garotoo&show_icons=true&theme=omni&count_private=true&hide_border=true
-[languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=garotoo&theme=omni&layout=compact&hide_border=true
+[profile]: https://github-readme-stats.vercel.app/api?username=Kataxayn&show_icons=true&theme=omni&count_private=true&hide_border=true
+[languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=Kataxayn&theme=omni&layout=compact&hide_border=true
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=garotoo&color=blue" alt="Dust profile views" /> </p>
