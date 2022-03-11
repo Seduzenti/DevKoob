@@ -1,12 +1,13 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
+## I will perform magic on your code! :zap:
 
-### Hi! Welcome to my profile. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px"> 
+Hello, my name is **Guilherme**, I'm 13 years old and I live in Canadá, US I'm currently a developer of plugins for minecraft servers, but I'm studying to become a website developer! :heart:
+Are you in the mood to talk?
+- :speech_balloon: add me on discord: [`Sveci#0001`](https://discord.com/users/869683830502608987)
+- :mailbox: send an email: [`svecii@hotmail.com`](maito:svecii@hotmail.com)
 
-- 🤖 I currently work at https://none.com
+<br>
 
-- 💼 accepting orders.
-
-### ➟ KNOWLEDGE:
+**All the languages ​​I learned on my journey as a developer:**
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40" />
@@ -14,18 +15,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" />
 
-</p>
-
-### ➟ IDE's
+**IDE's**
 
   ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=blue)
   ![PHP Storm](https://img.shields.io/badge/PHP%20Storm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
   ![Visual Studios Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)
 
-![profile] 
-![languages]
-
-[profile]: https://github-readme-stats.vercel.app/api?username=Kataxayn&show_icons=true&theme=omni&count_private=true&hide_border=true
-[languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=Kataxayn&theme=omni&layout=compact&hide_border=true
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=garotoo&color=blue" alt="Dust profile views" /> </p>
