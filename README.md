@@ -2,7 +2,7 @@
 
 Hello, my name is **Guilherme**, I'm 13 years old and I live in Canadá, US I'm currently a developer of plugins for minecraft servers, but I'm studying to become a website developer! :heart:
 Are you in the mood to talk?
-- :speech_balloon: add me on discord: [`Sveci#0001`](https://discord.com/users/869683830502608987)
+- :speech_balloon: add me on discord: [`Sveci#0001`](https://discord.com/users/737282221232095324)
 - :mailbox: send an email: [`svecii@hotmail.com`](maito:svecii@hotmail.com)
 
 <br>
