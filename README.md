@@ -5,7 +5,7 @@ Meu nome e **Guilherme**, tenho 13 anos sou desenvolvedor faço plugins de minec
 
 <br>
 
-**Todos os idiomas que aprendi na minha jornada como desenvolvedor:**
+**Todos as linguagens que aprendi na minha jornada como desenvolvedor:**
 
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
