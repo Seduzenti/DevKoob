@@ -1,17 +1,8 @@
-## Olá, Seja Bem Vindo(a) :zap:
-
-Meu nome e **Guilherme**, tenho 13 anos sou desenvolvedor e trabalho como Master do servidor **RedeHyzerd** F. Empire
-- Discord: [`reaxchgui#2653`](https://discord.com/users/967475102843273306)
-
-<br>
-
-**Aqui está duas linguagens que são minhas especialidades**
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-
-**Programas que uso para desenvolver projetos**
-
-  ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=blue)
-
+# Ryan Azevim 
+[![Twitter Badge](https://img.shields.io/badge/-@Azevim-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/Azelim)](https://twitter.com/Azelim) 
+[![Youtube Badge](https://img.shields.io/badge/-Ryan%20Azevim-6633cc?style=flat-square&logo=Youtube&logoColor=white&link=https://youtube.com/c/Azelim-ab8625179/)](https://youtube.com/c/Azelim-ab8625179/) 
+#
+**Azevim** - Lead Developer at [@WapyOficial](https://github.com/WapyOficial).
+* Work contact: [![Gmail Badge](https://img.shields.io/badge/-azevim@redewapy.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:azevim@redewapy.com)](mailto:azevim@redewapy.com)
+* Developer contact: [![Gmail Badge](https://img.shields.io/badge/-dev@azevim.com.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev@azevim.com.br-6633cc)](mailto:dev@azevim.com.br)
+#
